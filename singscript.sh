@@ -13,3 +13,5 @@ mkdir /src
 cd /src
 git clone https://github.com/currymj/KPDMetric.git
 mv /Simulation1.jar /src/KPDMetric/python/Simulation1.jar
+touch /src/KPDMetric/python/cacheIN
+touch /src/KPDMetric/python/cacheOUT
